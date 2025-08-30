@@ -1,4 +1,3 @@
-# MLS-Fantasy-Picker
+# mls-fantasy-picker
 
-Need to install chrome-driver here: https://sites.google.com/chromium.org/driver/
-Put in same folder or add to path.
+This is an MLS Fantasy Picker application (in progress) that will use soccer data to pick MLS Fantasy teams.
